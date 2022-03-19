@@ -1,0 +1,178 @@
+aggiungere	[Human] aggiungere : [Proposition] | che [Proposition]
+aggiungere	[Human] aggiungere [Anything] | che [Proposition]
+ammettere	[Human] | [Institution] ammettere ([Activity {errori | sbagli | malefatte}] | [Responsibility]) | che | di [Proposition]
+annotare	[Human] | [Device] annotare [Information] | [Number] | [Proposition]
+annotare	[Human] annotare che [Preposition] : [Proposition]
+annunciare	[Human1] | [Institution] annunciare [Event] | che | di [Proposition] (a [Human2])
+annunciare	[Document] | [Part of Language] | [Sound] | [Sound Maker {campana | altoparlante}] annunciare [Event] | che | di [Proposition]
+apprendere	[Human] apprendere [Information] | che [Proposition]
+assicurare	[Human] assicurare : [Proposition] | che [Proposition]
+assicurare	[Human] | [Institution] assicurarsi che | di [Proposition]
+assumere	si assume che | di [Proposition]
+avvertire	[Human1] | [Institution] | [Signal] avvertire ([Human2]) (di|su [Anything]) | (che | di [Proposition]) | (: [Proposition])
+avvertire	[Human1] avvertire [Human2] (che [Proposition])
+avvisare	[Human1] | [Human Group1] avvisare ([Human2] | [Human Group2] | [Medium]) di [Eventuality] | che | di [Proposition]
+avvisare	[Human1] | [Institution] avvisare ([Human2]) (di [Eventuality]) | (che [Proposition]) | (: [Proposition])
+avvisare	[Signal] | [Device] | {programma | sistema} avvisare [Human] (di [Eventuality]) | (che [Proposition])
+azzardare	[Human] azzardare [Speech Act] | : [Proposition] | che [Proposition]
+bastare	basta | basti che [Proposition] | [Proposition]
+bastare	basta | basti [Proposition]
+bisbigliare	[Human] bisbigliare [Proposition] | [Part of Language] | : [Proposition]
+bisognare	bisogna che [Proposition] | [Proposition]
+borbottare	[Human] borbottare [Proposition] | che [Proposition] | : [Proposition]
+brontolare	[Human] brontolare [Proposition] | che [Proposition] | : [Proposition]
+buttare	[Human] buttare lì | là | giù [Proposition] | [Part of Language]
+capire	[Human] capire [Concept] | di [Proposition] | che|come|perché|cosa [Proposition]
+chiarire	[Physical Entity] | [Abstract Entity1] | [Eventuality1] chiarire [Abstract Entity2] | [Eventuality2] | che [Proposition]
+chiedere	[Human1] | [Human Group 1] chiedere [Proposition] che|se | di [Proposition] | : [Proposition] (a [Human2] | a [Human Group2])
+chiedere	[Human] chiedersi se [Proposition] | : [Proposition]
+citare	[Human] citare [Document] | [Proposition]
+collegare	[Human] collegarsi a [Proposition]
+comandare	[Human1] comandare [Proposition] che | di a [Proposition] a [Human2]
+comprendere	[Human] comprendere [Abstract Entity {ragione | significato}] | che [Proposition]
+comunicare	[Human1] | [Institution1] comunicare (a [Human2] | a [Institution2]) [Information] | che | di [Proposition]
+concludere	[Human] concludere che [Proposition]
+confermare	[Human] | [Institution] confermare [Eventuality] | [Property] | [Concept] | che | di [Proposition]
+credere	[Human] credere (che | di [Proposition])
+decretare	[Human] | [Institution] | [Rule1] decretare [Rule2] | [Eventuality] | che | di [Proposition] : [Proposition]
+dettare	[Human] dettare [Proposition]
+dichiarare	[Human] dichiarare che | di [Proposition] | : [Proposition]
+dimenticare	[Human] dimenticare [Anything] | che | di [Proposition]
+dimostrare	[Human] | [Event1] dimostrare [Proposition] che|come | di [Proposition]
+dimostrare	[Human] dimostrare che [Proposition]
+dire	[Human] dire : [Proposition] | che [Proposition] | {parola}
+dire	[Human] | [Institution] dire che | di [Proposition]
+dire	[Anything1] vuol dire ([Proposition]) [Anything2]
+dire	dicono | si dice che [Proposition]
+dire	[Anything1] dire [Anything2] | che|quanto [Proposition] (a [Human])
+disperare	[Human] disperare che | di [Proposition]
+disporre	[Human] | [Rule] disporre che | di [Proposition] | [Activity] | [Obligation]
+domandare	[Human] domandarsi chi|come|cosa|perché|se [Proposition] | : [Proposition]
+domandare	[Human1] domandare (a [Human2]) chi|come|cosa|perché|se | di [Proposition] | : [Proposition]
+escludere	[Human] | [Institution] escludere [Concept] | [Uncertainty] | [Opportunity] | [Eventuality] | che | di [Proposition]
+escludere	[Event] | [Concept] | [Document] escludere [Opportunity] | [Eventuality] | che [Proposition]
+esigere	[Human] | [Human Group] esigere che | di [Proposition] | [Anything]
+evidenziare	[Human] | [Document] evidenziare [Eventuality] | [Physical Entity] | [Concept] | [Property] che|come [Proposition]
+evidenziare	[Human] | [Concept] | [Eventuality1] evidenziare [Eventuality2] | [Information] | [Opportunity] | [Property] | [Responsability] che|come [Proposition]
+fare	[Human] | [Institution] fare {presente} [Eventuality] | che [Proposition]
+figurare	figurarsi (se [Proposition])
+figurare	[Human] figurarsi [Anything] | cosa|come [Proposition]
+garantire	[Abstract Entity] | [Human1] | [Activity] garantire (a [Human2]) che [Proposition]
+giurare	[Human] giurare che | di [Proposition] | : [Proposition]
+gridare	[Human] gridare [Anything {aiuto | slogan}] | che | di [Proposition] | : [Proposition]
+ignorare	[Human] ignorare che [Proposition]
+illudere	[Human] | [Human Group] illudersi (che | di [Proposition])
+immaginare	[Human] immaginare [Anything] | che | di [Proposition]
+immaginare	[Human] immaginare che [Proposition]
+immaginare	[Human] immaginarsi [Anything] | che [Proposition]
+imparare	[Human] imparare come | a [Activity] | che [Proposition]
+indicare	[Human] indicare [Activity] | [Inanimate] | [Location] | di [Proposition]
+indicare	[Human] | [Institution] indicare che | di [Proposition]
+indirizzare	[Human1] indirizzare [Document] | [Proposition] a [Human2] | a [Institution]
+indovinare	[Human] indovinare [Psych] | [Concept] | che [Proposition]
+informare	[Human1] | [Institution1] informare [Human2] | [Institution2] (di|su [Eventuality]) | (che [Proposition])
+informare	[Document] | [Device] informare ([Human] | [Institution]) (di|su [Eventuality]) | (che [Proposition])
+insegnare	[Human1] | [Event] insegnare [Eventuality] | [Abstract Entity] | che [Proposition] a [Human2]
+lamentare	[Human] | [Human Group] lamentare [Eventuality] | che | di [Proposition]
+lamentare	[Human] | [Institution] lamentarsi (di|per [Anything]) che [Proposition]
+leggere	[Human] leggere [Information] | che [Proposition]
+leggere	si legge che [Proposition] | : [Proposition] | [Information] in [Document] | su {sito}
+levare	[Proposition : Plural] | {voci} levarsi
+masticare	[Human] masticare [Proposition] | {parole}
+meravigliare	[Human] meravigliarsi (di [Anything]) | (se|che [Proposition])
+miagolare	[Human] miagolare [Proposition] | : [Proposition]
+mormorare	[Human] mormorare [Proposition] | [Part of Language] | : [Proposition] | che [Proposition]
+mormorare	si mormora che [Proposition]
+mostrare	[Entity] mostrare (a [Human]) che|cosa|come | di [Proposition]
+narrare	[Human1] narrare [Narrative] | che [Proposition] (a [Human2])
+narrare	[Narrative {leggenda}] narrare che [Proposition]
+narrare	si narra che [Proposition]
+negare	[Human] | [Human Group] negare [Concept] | [Eventuality] che | di [Proposition]
+notare	[Human] notare [Anything] | che [Proposition]
+notare	[Human] notare : [Proposition]
+notare	[Human1] | [Institution] fare notare [Anything] | che|come [Proposition] (a [Human2])
+ordinare	[Human1] | [Institution1] ordinare [Activity] | che | di [Proposition] | : [Proposition] (a [Human2] | a [Institution2])
+osservare	[Human] osservare che|come|se [Proposition] | : [Proposition]
+parere	pare (a [Human]) che | di [Proposition]
+parere	pare a [Human] ([Concept]) | (che [Proposition])
+parere	[Anything] parere [Proposition]
+parere	a quanto pare ([Proposition])
+pensare	[Human] pensare che | di [Proposition]
+pensare	[Human] pensare (a [Anything]) | (che [Proposition])
+persuadere	[Human1] | [Event] persuadere [Human2] (di [Eventuality]) | (che | di [Proposition])
+persuadere	[Human] persuadersi di [Eventuality] | che | di [Proposition]
+potere	[Entity] | [Event] non potere che [Proposition]
+potere	può darsi | può essere che [Proposition]
+precisare	[Human] | [Institution] | [Information] precisare : [Proposition] | che [Proposition] | [Anything]
+predicare	[Human] | [Human Group] predicare [Concept] | [Activity] | che [Proposition]
+prendere	[Human] prendere {atto} di [Event] | che [Proposition]
+pretendere	[Human] | [Human Group] pretendere che | di [Proposition]
+pretendere	[Human1] pretendere [Abstract Entity] | [Asset] | che | di [Proposition] (da [Human2] | da [Institution])
+prevedere	[Human] | [Human Group] prevedere [Eventuality] | che | di [Proposition]
+pronunciare	[Human] pronunciare [Part of Language] | [Proposition]
+proporre	[Human1] proporre (a [Human2]) [Activity] | [Agreement] | che | di [Proposition]
+provare	[Human] provare [Abstract Entity] | che [Proposition]
+raccomandare	[Human1] | [Human Group1] raccomandare (a [Human2] | a [Human Group2]) [Activity] | che | di [Proposition]
+raccontare	[Human1] raccontare [Concept] | [Event] | che | di [Proposition] (a [Human2])
+raccontare	[Artwork] | [Document] raccontare [Event] | [Narrative] | [Psych] | [Time Period] | come [Proposition]
+raccontare	[Artwork] raccontare di [Entity] | di [Event] | di come [Proposition]
+recitare	[Human] recitare [Document] | [Proposition]
+registrare	[Human] registrare [Information] | [Proposition]
+ribattere	[Human] ribattere (che [Proposition]) | (: [Proposition])
+ricevere	[Human] | [Institution] ricevere [Inanimate] | [Asset] | [Information] | [Speech Act]
+riconoscere	[Human] riconoscere [Anything] | che | di [Proposition]
+riconoscere	[Human] riconoscere [Concept] | [Role] | {diritto} | che [Proposition]
+ricordare	[Human1] ricordare (a [Human2]) che|come|cosa | di [Proposition] | : [Proposition]
+ricordare	[Human] ricordarsi che | di [Proposition] | di [Anything]
+riferire	[Human] | [Institution] riferire che [Proposition] | : [Proposition]
+rilanciare	[Human] | [Institution] rilanciare (con [Proposition] | con [Action]) | ([Proposition]) | (: [Proposition])
+rimanere	[Human] rimanere dell' {idea | opinione} che [Proposition]
+rimbalzare	[Information] | [Proposition] rimbalzare
+rimbombare	[Proposition] | {dubbio} rimbombare (in {testa | cervello | mente | orecchie})
+rinfacciare	[Human1] rinfacciare a [Human2] [Eventuality] | [Property] | che | di [Proposition]
+rinfacciare	[Human1] | [Human Group] rinfacciare a [Human2] [Activity] | che | di [Proposition]
+rinfacciare	[Human : Plural] rinfacciarsi [Abstract Entity] | [Property] | di [Proposition]
+ringraziare	[Human] ringraziare {il cielo} (che | di|per [Proposition])
+ripetere	[Human] ripetere : [Proposition] | che | di [Proposition]
+riportare	[Human] | [Institution] riportare [Anything] | che | di [Proposition] | : [Proposition]
+ritenere	[Human] | [Institution] ritenere che | di [Proposition]
+rivelare	[Anything1] rivelare [Anything2] | che [Proposition]
+rivelare	[Animate] | [Information] rivelare (a [Human]) che | di [Proposition]
+sapere	[Human] sapere [Information] | che|se|come|cosa|quale [Proposition]
+sapere	[Human] sapere [Information] | come|quale|cosa [Proposition]
+sapere	[Human] sapere che | di [Proposition]
+scappare	(a [Human]) scappare fuori [Proposition] | : [Proposition]
+scommettere	[Human] scommettere che [Proposition]
+scrivere	[Human] scrivere [Concept] | che [Proposition] | : [Proposition]
+segnalare	[Human] | [Institution] segnalare [Eventuality] | che [Proposition]
+sentire	[Human] sentire che [Proposition]
+sentire	[Human] sentire ({dire}) [Proposition] | che [Proposition]
+sentire	[Human] sentire che [Proposition]
+smentire	[Human] | [Institution] smentire [Proposition]
+sognare	[Human1] sognare [Physical Entity] | [Human2] | che | di [Proposition]
+sognare	[Human] sognare [Abstract Entity] | [Physical Entity] | che | di [Proposition]
+sollevare	[Human] | [Abstract Entity] sollevare [Uncertainty] | [Concept] | [Question] | [Proposition]
+sospettare	[Human] | [Institution] sospettare [Eventuality] | che | di [Proposition]
+sospettare	[Human] | [Institution] sospettare [Eventuality] | che [Proposition]
+sostenere	[Human] | [Institution] sostenere : [Proposition] | che | di [Proposition]
+sottolineare	[Human] | [Human Group] | [Document] | [Rule] | [Eventuality1] sottolineare [Anything] | che|come [Proposition]
+sottomettere	[Human1] sottomettere [Proposition] (a [Human2] | a [Institution])
+sottoscrivere	[Human1] sottoscrivere [Proposition] | [Document] (di [Human2])
+sparare	[Human] sparare [Proposition {frottole | sciocchezze | cazzate | stronzate}]
+sperare	[Human] sperare che | di [Proposition]
+spiegare	[Human1] | [Document] spiegare [Concept] | [Eventuality] | che|come|perché [Proposition] (a [Human2] | a [Human Group])
+spiegare	[Human1] spiegare : [Proposition] (a [Human2])
+stare	sta di fatto | fatto sta che [Proposition]
+suggerire	[Human1] suggerire ([Proposition]) | (: [Proposition]) (a [Human2])
+suggerire	[Human] suggerire che [Proposition]
+temere	[Human1] | [Human Group] temere [Event] | [State] | [Human2] | che | di [Proposition]
+temere	[Human] temere che | di [Proposition]
+tollerare	[Human] | [Human Group] tollerare [Activity] | [State] | che [Proposition]
+trascurare	[Human] | [Institution] trascurare [Eventuality] | [Abstract Entity] | che | di [Proposition]
+trattare	si tratta di [Proposition]
+udire	[Human] udire ({dire}) [Information] | [Event] | che [Proposition]
+vantare	[Human] vantarsi (di [Anything]) | (di [Proposition])
+vedere	[Human] vedere quanto|quale|come [Proposition]
+verificare	[Human] | [Institution] | [Device] | [Machine] verificare [Eventuality] | [Property] | [Information] | [Numerical Value] | che [Proposition]
+volere	[Human] volere [Anything] | che [Proposition]
+vomitare	[Human] vomitare [Proposition] | [Speech Act]
