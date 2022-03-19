@@ -1,12 +1,3 @@
-Questo diventerà definitivo non appena scopro come si usa veramente GitHub, per ora è solo per orientarci noi due. 
+This folder contains the results of our study on Italian Attitude verbs, as presented in the paper we submitted at the ISA-18 (LREC) workshop. All data can be cousulted at the T-PAS online interface at https://tpas.sketchengine.eu/
 
-La cartella conterrà tre files: 
-
--   una lista degli attitude verbs che abbiamo identificato 
-
--   una lista dei patterns nel formato * verbo, pattern_id, pattern_string *
-
--   l'ontologia in OWL 
-
-
-Poi, questo readme dovrebbe pure in qualche modo linkare al sito di tpas (almeno a quello vecchio) o almeno al paper (Jezek et al., 2014) e poi forse al paper nostro per ISA? Boh
+The file VERBS.txt contains the list of attitude verbs in Italian, the file PATTERNS.txt contains the string of the pattern, in the format discussed in the paper
